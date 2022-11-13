@@ -1,0 +1,12 @@
+D:\Project\c# best practices\BuberDinner\BuberDinner.Contracts\bin\Debug\net6.0\BuberDinner.Contracts.deps.json
+D:\Project\c# best practices\BuberDinner\BuberDinner.Contracts\bin\Debug\net6.0\BuberDinner.Contracts.dll
+D:\Project\c# best practices\BuberDinner\BuberDinner.Contracts\bin\Debug\net6.0\BuberDinner.Contracts.pdb
+D:\Project\c# best practices\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\BuberDinner.Contracts.csproj.AssemblyReference.cache
+D:\Project\c# best practices\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\BuberDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\c# best practices\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\BuberDinner.Contracts.AssemblyInfoInputs.cache
+D:\Project\c# best practices\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\BuberDinner.Contracts.AssemblyInfo.cs
+D:\Project\c# best practices\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\BuberDinner.Contracts.csproj.CoreCompileInputs.cache
+D:\Project\c# best practices\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\BuberDinner.Contracts.dll
+D:\Project\c# best practices\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\refint\BuberDinner.Contracts.dll
+D:\Project\c# best practices\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\BuberDinner.Contracts.pdb
+D:\Project\c# best practices\BuberDinner\BuberDinner.Contracts\obj\Debug\net6.0\ref\BuberDinner.Contracts.dll
