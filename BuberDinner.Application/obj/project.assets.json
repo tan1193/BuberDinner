@@ -14,6 +14,15 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
+      "OneOf/3.0.223": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/OneOf.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/OneOf.dll": {}
+        }
+      },
       "BuberDinner.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -52,6 +61,21 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "OneOf/3.0.223": {
+      "sha512": "YWabiHBFfDdKIO7/TEa72mARVVo5u5FqFnfXuTqjIupMvJlhoH8d0m4uKtczaINuT0vGR1qlXJayeU6bTw5myg==",
+      "type": "package",
+      "path": "oneof/3.0.223",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/OneOf.dll",
+        "lib/net45/OneOf.dll",
+        "lib/netstandard1.3/OneOf.dll",
+        "lib/netstandard2.0/OneOf.dll",
+        "oneof.3.0.223.nupkg.sha512",
+        "oneof.nuspec"
+      ]
+    },
     "BuberDinner.Domain/1.0.0": {
       "type": "project",
       "path": "../BuberDinner.Domain/BuberDinner.Domain.csproj",
@@ -61,7 +85,8 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "BuberDinner.Domain >= 1.0.0",
-      "Microsoft.Extensions.DependencyInjection.Abstractions >= 6.0.0"
+      "Microsoft.Extensions.DependencyInjection.Abstractions >= 6.0.0",
+      "oneof >= 3.0.223"
     ]
   },
   "packageFolders": {
@@ -70,11 +95,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+      "projectUniqueName": "D:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
       "projectName": "BuberDinner.Application",
-      "projectPath": "d:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+      "projectPath": "D:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
       "packagesPath": "C:\\Users\\Hoang\\.nuget\\packages\\",
-      "outputPath": "d:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Application\\obj\\",
+      "outputPath": "D:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -91,8 +116,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "d:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
-              "projectPath": "d:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj"
+            "D:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
+              "projectPath": "D:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj"
             }
           }
         }
@@ -110,6 +135,10 @@
           "Microsoft.Extensions.DependencyInjection.Abstractions": {
             "target": "Package",
             "version": "[6.0.0, )"
+          },
+          "oneof": {
+            "target": "Package",
+            "version": "[3.0.223, )"
           }
         },
         "imports": [
