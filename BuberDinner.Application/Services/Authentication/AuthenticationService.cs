@@ -9,12 +9,12 @@ using ErrorOr;
 
 namespace BuberDinner.Application.Services.Authentication;
 
-public class AuthenticationService : IAuthenticationService
+public class AuthenticationCommandService : IAuthenticationCommandService
 {
     private readonly IJwtTokenGenerator _jwtTokenGenerator;
     private readonly IUserRepository _userRepository;
 
-    public AuthenticationService(IJwtTokenGenerator jwtTokenGenerator, IUserRepository userRepository)
+    public AuthenticationCommandService(IJwtTokenGenerator jwtTokenGenerator, IUserRepository userRepository)
     {
         _jwtTokenGenerator = jwtTokenGenerator;
         _userRepository = userRepository;
