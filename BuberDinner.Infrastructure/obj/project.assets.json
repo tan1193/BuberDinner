@@ -759,11 +759,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+      "projectUniqueName": "D:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
       "projectName": "BuberDinner.Infrastructure",
-      "projectPath": "d:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+      "projectPath": "D:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Hoang\\.nuget\\packages\\",
-      "outputPath": "d:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Infrastructure\\obj\\",
+      "outputPath": "D:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -780,8 +780,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "d:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
-              "projectPath": "d:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
+            "D:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
+              "projectPath": "D:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
             }
           }
         }

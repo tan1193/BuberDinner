@@ -794,11 +794,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
+      "projectUniqueName": "D:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
       "projectName": "BuberDinner.Api",
-      "projectPath": "d:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
+      "projectPath": "D:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
       "packagesPath": "C:\\Users\\Hoang\\.nuget\\packages\\",
-      "outputPath": "d:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Api\\obj\\",
+      "outputPath": "D:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -815,14 +815,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "d:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
-              "projectPath": "d:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
+            "D:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
+              "projectPath": "D:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
             },
-            "d:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
-              "projectPath": "d:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj"
+            "D:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
+              "projectPath": "D:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj"
             },
-            "d:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {
-              "projectPath": "d:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj"
+            "D:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {
+              "projectPath": "D:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj"
             }
           }
         }

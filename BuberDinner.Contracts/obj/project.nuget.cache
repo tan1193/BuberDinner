@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AvXpHQUaFiMB1UiuslQtHUPKYcVzWTyXCTUv3963yQgHDYZa2SmXcbv9QYkUjC2hx72X8k5MQQBKHNH+tl4L+w==",
+  "dgSpecHash": "CQ0jwtPGN8fp8PYQsV4SX4k9F4WxDiIPqjev1oK1I/bGax/OL+z+FBm+e33bfvl4K3B53fGMJBWdSaEQsc1qQg==",
   "success": true,
-  "projectFilePath": "d:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+  "projectFilePath": "D:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

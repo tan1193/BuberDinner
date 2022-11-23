@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {}
+    "D:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {}
   },
   "projects": {
-    "d:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
+    "D:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+        "projectUniqueName": "D:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
         "projectName": "BuberDinner.Contracts",
-        "projectPath": "d:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+        "projectPath": "D:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
         "packagesPath": "C:\\Users\\Hoang\\.nuget\\packages\\",
-        "outputPath": "d:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Contracts\\obj\\",
+        "outputPath": "D:\\Project\\c# best practices\\BuberDinner\\BuberDinner.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",

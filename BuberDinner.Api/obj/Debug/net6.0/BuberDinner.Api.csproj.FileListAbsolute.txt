@@ -34,3 +34,7 @@ D:\Project\c# best practices\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Micros
 D:\Project\c# best practices\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 D:\Project\c# best practices\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
 D:\Project\c# best practices\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Project\c# best practices\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\ErrorOr.dll
+D:\Project\c# best practices\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\MediatR.dll
+D:\Project\c# best practices\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\MediatR.Contracts.dll
+D:\Project\c# best practices\BuberDinner\BuberDinner.Api\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
