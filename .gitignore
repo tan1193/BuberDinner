@@ -440,3 +440,7 @@ Training
 Blog
 About
 BuberDinner.Api/obj/Debug/net6.0/project.razor.json
+BuberDinner.Api/obj/staticwebassets.pack.sentinel
+BuberDinner.Api/obj/Debug/net6.0/BuberDinner.Api.assets.cache
+BuberDinner.Application/obj/Debug/net6.0/BuberDinner.Application.assets.cache
+BuberDinner.Infrastructure/obj/Debug/net6.0/BuberDinner.Infrastructure.assets.cache
