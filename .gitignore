@@ -355,3 +355,7 @@ out/
 local/data/
 .env
 portainer-data/
+
+bin
+obj
+packages
