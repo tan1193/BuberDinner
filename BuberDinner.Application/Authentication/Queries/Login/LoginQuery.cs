@@ -4,7 +4,6 @@ using BuberDinner.Application.Authentication.Common;
 using ErrorOr;
 using MediatR;
 
-
 public record LoginQuery(
 
     string Email,

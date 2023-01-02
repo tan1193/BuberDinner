@@ -8,7 +8,6 @@ namespace BuberDinner.Infrastructure.Logging
     {
         public static void CreateLoggerConfiguration(this IServiceProvider serviceProvider, bool isRunOnTye = true)
         {
-           
 
         }
     }

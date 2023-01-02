@@ -33,7 +33,6 @@ public class AuthenticationController : ApiController
         );
     }
 
-
     [HttpPost("login")]
     public async Task<IActionResult> Login(LoginRequest request)
     {
@@ -49,6 +48,4 @@ public class AuthenticationController : ApiController
            errors => Problem(errors)
        );
     }
-
-
 }

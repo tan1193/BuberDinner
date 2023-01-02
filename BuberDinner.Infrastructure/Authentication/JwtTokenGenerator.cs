@@ -21,7 +21,7 @@ public class JwtTokenGenerator : IJwtTokenGenerator
 
     public string GenerateToken(User user)
     {
-        var signingCredentials = new SigningCredentials(new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_jwtSettings.Secret)),
+        _ = new SigningCredentials(new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_jwtSettings.Secret)),
                                                                                                         SecurityAlgorithms.HmacSha256);
         var claims = new[]
         {
@@ -30,12 +30,11 @@ public class JwtTokenGenerator : IJwtTokenGenerator
             new Claim(JwtRegisteredClaimNames.FamilyName,  user.LastName),
             new Claim(JwtRegisteredClaimNames.Jti,  Guid.NewGuid().ToString())
         };
-
-        var securityToken = new JwtSecurityToken(
+        _ = new JwtSecurityToken(
             issuer: _jwtSettings.Issuer,
             audience: _jwtSettings.Audience,
-            expires: _dateTimeProvider.UtcNow.AddMinutes(_jwtSettings.ExpiryMinutes),
-            claims: claims);
-            return "";
+            claims: claims,
+            expires: _dateTimeProvider.UtcNow.AddMinutes(_jwtSettings.ExpiryMinutes));
+        return "";
     }
 }
